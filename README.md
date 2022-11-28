@@ -1,1 +1,1 @@
-# Digital birthday card
+# A digital birthday card with a 3D figurine built with Spline. 
